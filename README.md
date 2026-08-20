@@ -40,7 +40,6 @@ Each folder covers one library, with hands-on notebooks and the datasets used al
 | [Matplotlib](./matplotlib) | Line, Bar, Hist, Pie, Scatter, Subplot, Imshow plots | ✅ |
 | [Seaborn](./seaborn) | `Seaborn.ipynb` | ✅ |
 
-> More folders will be added here as I move further through the playlist.
 
 ## 🚀 Running the Notebooks
 
